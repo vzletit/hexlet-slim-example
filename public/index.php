@@ -1,6 +1,6 @@
 <?php
 
-// Подключение автозагрузки через composer
+// Подключение автозагрузки через composer 1
 require __DIR__ . '/../vendor/autoload.php';
 
 use Slim\Factory\AppFactory;
